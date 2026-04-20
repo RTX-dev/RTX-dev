@@ -3,7 +3,7 @@
 # Hey, moi c'est Axel 👋
 
 **Développeur web** basé à Vitré, France 🇫🇷  
-Je construis des trucs sur internet — en ce moment je bosse sur [axellr.com](https://axellr.com)
+Je construis des trucs sur internet
 
 </div>
 
