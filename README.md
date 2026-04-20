@@ -1,25 +1,26 @@
 <div align="center">
 
-# Hey, moi c'est Axel !
+# Hey, moi c'est Axel ! 
 
-**Développeur** basé à Vitré, France 
-Je construis des trucs sur internet
+**Développeur web** basé à Vitré, France 🇫🇷  
+Je construis des trucs sur internet — en ce moment je bosse sur [axellr.com](https://axellr.com)
 
 </div>
 
 ---
 
-### - Stack & technos
+### 🛠️ Stack & technos
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### - Stats GitHub
+### 📊 Stats GitHub
 
 <div align="center">
 
@@ -33,7 +34,7 @@ Je construis des trucs sur internet
 
 ---
 
-### - Me retrouver
+### 🌐 Me retrouver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-axellr.com-58A6FF?style=for-the-badge&logo=firefox&logoColor=white)](https://axellr.com)
 
