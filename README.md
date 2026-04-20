@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, moi c'est Axel 👋
+# Hey, moi c'est Axel !
 
 **Développeur web** basé à Vitré, France 🇫🇷  
 Je construis des trucs sur internet — en ce moment je bosse sur [axellr.com](https://axellr.com)
@@ -15,6 +15,8 @@ Je construis des trucs sur internet — en ce moment je bosse sur [axellr.com](h
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
